@@ -52,3 +52,8 @@ there uses the decoderV2 model for decoder.
 - [ ] change LSTM to Conv1D, it can greatly accelerate the inference
 - [ ] change the cnn bone model with inception net, densenet
 - [ ] realize the decoder with transformer model
+
+# 李剑备注：
+https://blog.csdn.net/u011622208/article/details/85781485 本代码对应的博文：AttentionOCR Pytorch中文识别程序
+https://github.com/lijian10086/models 官方的Attention_ocr
+https://blog.csdn.net/qq_14845119/article/details/86141277 官方Attention_ocr对应的博文
